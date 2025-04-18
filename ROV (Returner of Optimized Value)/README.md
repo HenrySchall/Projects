@@ -26,6 +26,8 @@ https://infograficos.valor.globo.com/carteira-valor/
 
 https://content.btgpactual.com/research/home/acoes/
 
+TIKR plataforma
+
 https://maisretorno.com/app/comparador-ativos?p=otimo&a=cdi%3Aidx
 
 IPO Watchlist
