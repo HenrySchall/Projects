@@ -28,6 +28,8 @@ https://content.btgpactual.com/research/home/acoes/
 
 TIKR plataforma
 
+https://www.stock-analysis-on.net/
+
 https://maisretorno.com/app/comparador-ativos?p=otimo&a=cdi%3Aidx
 
 IPO Watchlist
