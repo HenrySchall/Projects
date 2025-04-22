@@ -1,5 +1,7 @@
 https://cbonds.com/
 
+https://github.com/virattt/ai-hedge-fund
+
 # Finances
 
 Portfolio Returns Funds (World)
