@@ -58,8 +58,6 @@ Canva
 <<<<<<< Updated upstream
 ![Screenshot_20250321_213638_Gallery](https://github.com/user-attachments/assets/d626dba9-be44-4806-9c11-6dcd304a061e)
 
-=======
-
 Demand Forecasting & Inventory Optimization
 2.Price Optimization
 3.Price Elasticity of Demand Analysis
