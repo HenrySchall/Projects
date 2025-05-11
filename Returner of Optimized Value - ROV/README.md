@@ -58,19 +58,3 @@ Canva
 <<<<<<< Updated upstream
 ![Screenshot_20250321_213638_Gallery](https://github.com/user-attachments/assets/d626dba9-be44-4806-9c11-6dcd304a061e)
 
-Demand Forecasting & Inventory Optimization
-2.Price Optimization
-3.Price Elasticity of Demand Analysis
-4.User Profiling & Segmentation
-5.Cohort Analysis
-6.Store Sales & Profit Analysis
-7.Supply Chain Analysis
-
-1. Electric Vehicles Market Size Analysis
-2.Metro Operations Optimization
-3.B2B Courier Charges Accuracy Analysis
-4. Car Insurance Modelling
-5.Hypothesis Testing
-6.Exploratory Data Analysis using SQL
-7.Document Analysis using LLMs
->>>>>>> Stashed changes
