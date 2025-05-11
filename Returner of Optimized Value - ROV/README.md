@@ -56,9 +56,12 @@ Lalamove
 Canva
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ![Screenshot_20250321_213638_Gallery](https://github.com/user-attachments/assets/d626dba9-be44-4806-9c11-6dcd304a061e)
 
 =======
+=======
+>>>>>>> Stashed changes
 
 Demand Forecasting & Inventory Optimization
 2.Price Optimization
@@ -74,5 +77,9 @@ Demand Forecasting & Inventory Optimization
 4. Car Insurance Modelling
 5.Hypothesis Testing
 6.Exploratory Data Analysis using SQL
+<<<<<<< Updated upstream
+7.Document Analysis using LLMs
+>>>>>>> Stashed changes
+=======
 7.Document Analysis using LLMs
 >>>>>>> Stashed changes
